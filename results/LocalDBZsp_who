@@ -1,0 +1,2 @@
+Msg 229, Level 14, State 5, Server dbzsql, Procedure SP_WHOISACTIVE, Line 1
+The EXECUTE permission was denied on the object 'sp_WhoIsActive', database 'master', schema 'dbo'.
