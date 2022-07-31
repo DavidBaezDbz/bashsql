@@ -118,10 +118,7 @@ bash sqlmonitor.sh
 
 And the las step, is fill the file email and websitecheck
 
-**email**
-```
-xxxxx@domain.com,xxxxx1@domain.com
-```
+
 **sqlcheck**
 ```
 127.0.0.1|Local|Local (127.0.0.1 Docker)|MonitorBash
