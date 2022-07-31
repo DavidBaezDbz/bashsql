@@ -22,6 +22,7 @@ Script in **bash**. Checks an array of instance of MS Sql Server to verify Error
 
 
 > Use for encrypt pasword [https://github.com/DavidBaezDbz/encriptPassword](https://github.com/DavidBaezDbz/encriptPassword)
+
 > Use a script for the windows [https://github.com/metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses)
 
 ### Examples
@@ -29,7 +30,7 @@ Script in **bash**. Checks an array of instance of MS Sql Server to verify Error
 ```sh
     bash sqlmonitor.sh 
 ```
-> Checks every 60 seconds without creating tests and don't validate the prerequisites.
+> Checks every 5 seconds without creating tests and don't validate the prerequisites.
 
 
 
